@@ -2,7 +2,24 @@
   font-family: Verdana, Tahoma, sans-serif;
   font-size: 15px;
 }
-
+header {
+  margin: auto;
+}
+#logo {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#motivoreciclar {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  transform: rotate(90deg);
+  margin-right: 100px;
+  margin-left: 100px;
+}
 body {
   background-color: rgb(144, 202, 253);
 }
