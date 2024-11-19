@@ -6,17 +6,31 @@ header {
   margin: auto;
 }
 #logo {
-  width: 50%;
-  height: 50%;
+  width: 25%;
+  height: 25%;
   margin: auto;
   margin-right: 100px;
   margin-left: 100px;
 }
 #motivoreciclar {
-  width: 50%;
-  height: 50%;
+  width: 10%;
+  height: 10%;
   margin: auto;
   transform: rotate(90deg);
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#consumismo {
+  width: 10%;
+  height: 10%;
+  margin: auto;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#reciclar {
+  width: 10%;
+  height: 10%;
+  margin: auto;
   margin-right: 100px;
   margin-left: 100px;
 }
@@ -25,8 +39,14 @@ body {
 }
 main {
   background-color: rgb(182, 221, 255);
-  width: 500px;
+  width: 85%;
   margin: auto;
   padding: 12px;
   box-shadow: 2px 2px 4px rgb(72, 170, 255);
+}
+img.lado {
+  float: right;
+}
+img.titulo {
+  float: none;
 }
